@@ -391,7 +391,7 @@ def _get_channels_block() -> list:
     :rtype: list
     """
 
-    hacker_rank_current_url = "https://www.hackerrank.com/codedevils-fall-challenge"
+    hacker_rank_current_url = "https://www.hackerrank.com/codedevils-spring-challenge"
 
     block = get_blocks(
         ActionsBlock(
